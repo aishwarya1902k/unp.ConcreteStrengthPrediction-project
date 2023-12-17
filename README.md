@@ -1,5 +1,5 @@
 # unp.classification
-#CREDIT RISK analysis
+#CREDIT RISK ANALYSIS
 
 Objective:
 People lacking credit risk analysis often struggle to evaluate their creditworthiness or financial dependability. So the main objective is to predict the credit risk of customers.
